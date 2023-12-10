@@ -21,8 +21,18 @@ The above copyright notice and this permission notice shall be included in all
 copies or substantial portions of the Software.
 ```
 ## Other credits
+Uni-sans Font: https://www.1001fonts.com/uni-sans-font.html
+
+Boldenvan Font: https://www.dafont.com/boldenvan.font
+
 Coin Sound: https://freesound.org/people/MATRIXXX_/sounds/523547/
 
-Coin Image: https://www.flaticon.com/free-icon/coin_7880066 (Coin icons created by GibuStudio - Flaticon)
+Coin Image: https://www.flaticon.com/free-icon/coin_7880066
 
 Seamine Sound: https://freesound.org/people/MATRIXXX_/sounds/516858/
+
+Water Click Sound: https://freesound.org/people/CaptainYulef/sounds/638620/
+
+Click Sound: https://freesound.org/people/NXRT/sounds/640020/
+
+Boat: https://www.vecteezy.com/png/8501633-wooden-boat-clip-art
