@@ -14,7 +14,7 @@ pm:
   name: Ryan Mistretta
   netid: rhm255
 # Set to false if you don't want your gallery entry to be public.
-publish: false
+publish: true
 # Pithy title
 title: "OFishl, the Official OCaml Fishing Tournament"
 # OK if this is a Cornell Github link, but public gallery viewers won't be able to see it.
