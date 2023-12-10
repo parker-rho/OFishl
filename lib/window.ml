@@ -420,4 +420,5 @@ let run (map : string) (user : string) =
   Raylib.set_sound_volume (Loadables.coin_sound loads) 0.1;
   Raylib.set_sound_volume (Loadables.seamine_sound loads) 0.3;
   Raylib.set_sound_volume (Loadables.water_sound loads) 0.8;
+  Raylib.set_sound_volume (Loadables.click_sound loads) 0.2;
   looper map user !current_state loads
